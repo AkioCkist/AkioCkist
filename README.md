@@ -146,10 +146,6 @@ const AkioCkist = {
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=neon&color=8A2BE2&height=100&section=footer&text=THANKS%20FOR%20VISITING%20MY%20NEON%20REALM&fontSize=24&fontColor=FFFFFF&animation=twinkling" />
-</div>
-
-<div align="center">
   <img src="https://github.com/AkioCkist/AkioCkist/blob/output/github-snake-dark.svg" alt="Neon Snake Animation" width="100%"/>
 </div>
 
