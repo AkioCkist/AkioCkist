@@ -83,7 +83,7 @@
 ## 🧷 MY CONNECTIONS 
 
 <div align="center">
-  <a href="https://linkedin.com/in/nitishsinghslg" target="_blank">
+  <a href="https://linkedin.com/in/AkioCkist" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0077B5&labelColor=000000&color=8A2BE2" alt="LinkedIn"/>
   </a>
   <a href="https://x.com/AkioCkist" target="_blank">
@@ -98,13 +98,13 @@
   <a href="https://behance.net/AkioCkist" target="_blank">
     <img src="https://img.shields.io/badge/Behance-000000?style=for-the-badge&logo=behance&logoColor=1769FF&labelColor=000000&color=8A2BE2" alt="Behance"/>
   </a>
-  <a href="https://discord.gg/6ME9TDt" target="_blank">
+  <a href="https://discord.gg/8qFzZc8CHf" target="_blank">
     <img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=5865F2&labelColor=000000&color=DA70D6" alt="Discord"/>
   </a>
   <a href="https://twitch.tv/AkioCkist" target="_blank">
     <img src="https://img.shields.io/badge/Twitch-000000?style=for-the-badge&logo=twitch&logoColor=9146FF&labelColor=000000&color=8A2BE2" alt="Twitch"/>
   </a>
-  <a href="https://facebook.com/AkioCkist" target="_blank">
+  <a href="https://facebook.com/FatalAkio" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=1877F2&labelColor=000000&color=DA70D6" alt="Facebook"/>
   </a>
 </div>
