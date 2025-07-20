@@ -12,7 +12,7 @@
 
 ---
 
-## ⚡ NEON STATS DASHBOARD ⚡
+## ⚡STATS DASHBOARD 
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AkioCkist&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&hide_border=true&bg_color=0A0A23&title_color=DA70D6&icon_color=8A2BE2&text_color=E6E6FA&ring_color=DA70D6"/>
@@ -25,7 +25,7 @@
 
 ---
 
-## 🌟 NEON TECH ARSENAL 🌟
+## 🌟 TECH ARSENAL 
 
 <p align="center">
     <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=FF6B35&labelColor=000000&color=8A2BE2" alt="HTML5"/>
@@ -61,7 +61,7 @@
 
 ---
 
-## 📈 NEON ACTIVITY MATRIX
+## 📈 PATTERN OF ENGAGEMENT 
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkioCkist&bg_color=0A0A23&color=DA70D6&line=8A2BE2&point=FF00FF&area=true&hide_border=true&custom_title=NEON%20CONTRIBUTION%20MATRIX" alt="Neon Activity Graph"/>
@@ -69,7 +69,7 @@
 
 ---
 
-## 🏆 DIGITAL ACHIEVEMENTS 🏆
+## 🏆 DIGITAL ACHIEVEMENTS 
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AkioCkist&theme=neon&no-frame=true&no-bg=false&margin-w=4&column=6&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest" alt="Neon Trophies"/>
@@ -77,7 +77,7 @@
 
 ---
 
-## ⚡ NEON CONNECTIONS ⚡
+## 🧷 MY CONNECTIONS 
 
 <div align="center">
   <a href="https://linkedin.com/in/nitishsinghslg" target="_blank">
@@ -108,7 +108,7 @@
 
 ---
 
-## 🔮 NEON FACTS ABOUT THE WIZARD 🔮
+## 🔮 FACTS ABOUT ME 
 
 <div align="center">
   <img align="right" height="200" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Neon Coding GIF"/>
@@ -129,7 +129,7 @@ const AkioCkist = {
 
 ---
 
-## 📊 WEEKLY NEON CODING BREAKDOWN
+## ⏳ DAILY ROUTINE
 
 <div align="left">
   
@@ -149,8 +149,13 @@ const AkioCkist = {
   <img src="https://github.com/AkioCkist/AkioCkist/blob/output/github-snake-dark.svg" alt="Neon Snake Animation" width="100%"/>
 </div>
 
+---
+
 <div align="center">
-  <h2>⚡ STAY CONNECTED TO THE NEON GRID ⚡</h2>
+  <blockquote>
+    <p><i>“Life is not always black and white, it's a million shades of grey.”</i></p>
+    <footer>— Shay Patrick Cormac, <b>Templar</b></footer>
+  </blockquote>
   <p><i>🌟 Crafted with neon magic by <a href="https://github.com/AkioCkist">AkioCkist</a> 💜</i></p>
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=14&duration=3000&pause=1000&color=DA70D6&center=true&vCenter=true&width=400&lines=Keep+coding+in+neon+style!+%E2%9A%A1;May+your+commits+glow+bright!+%F0%9F%8C%9F" alt="Footer Message" />
 </div>
