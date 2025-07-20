@@ -67,7 +67,7 @@
 ## 📈 PATTERN OF ENGAGEMENT 
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkioCkist&bg_color=0A0A23&color=DA70D6&line=8A2BE2&point=FF00FF&area=true&hide_border=true&custom_title=NEON%20CONTRIBUTION%20MATRIX" alt="Neon Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkioCkist&bg_color=0A0A23&color=DA70D6&line=8A2BE2&point=FF00FF&area=true&hide_border=true&custom_title=ENGAGEMENT%20GRAPH" alt="Neon Activity Graph"/>
 </div>
 
 ---
