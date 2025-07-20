@@ -1,7 +1,7 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey there! I'm AkioCkist
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=2500&pause=800&color=8A2BE2&center=true&vCenter=true&width=600&lines=%E2%9A%A1+NEON+CODER+%E2%9A%A1;%F0%9F%8C%8C+FULL+STACK+DEVELOPER+%F0%9F%8C%8C;%F0%9F%94%AE+UI%2FUX+WIZARD+%F0%9F%94%AE;%F0%9F%9A%80+ALWAYS+INNOVATING+%F0%9F%9A%80" alt="Neon Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2500&pause=800&color=8A2BE2&center=true&vCenter=true&width=600&lines=%E2%9A%A1+NEON+CODER+%E2%9A%A1;%F0%9F%8C%8C+FULL+STACK+DEVELOPER+%F0%9F%8C%8C;%F0%9F%94%AE+UI%2FUX+WIZARD+%F0%9F%94%AE;%F0%9F%9A%80+ALWAYS+INNOVATING+%F0%9F%9A%80" alt="Neon Typing SVG" />
 </div>
 
 <div align="center">
@@ -12,7 +12,7 @@
 
 ---
 
-## ⚡STATS DASHBOARD ⚡
+## ⚡ NEON STATS DASHBOARD ⚡
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AkioCkist&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&hide_border=true&bg_color=0A0A23&title_color=DA70D6&icon_color=8A2BE2&text_color=E6E6FA&ring_color=DA70D6"/>
@@ -25,10 +25,10 @@
 
 ---
 
-## 🌟TECH ARSENAL 🌟
+## 🌟 NEON TECH ARSENAL 🌟
 
-<div align="center">
-  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=FF6B35&labelColor=000000&color=8A2BE2" alt="HTML5"/>
+<p align="center">
+    <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=FF6B35&labelColor=000000&color=8A2BE2" alt="HTML5"/>
   <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=000000&color=DA70D6" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=3178C6&labelColor=000000&color=DA70D6" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=000000&color=8A2BE2" alt="React"/>
@@ -61,9 +61,9 @@
 
 ---
 
-## 📈 ACTIVITY MATRIX
+## 📈 NEON ACTIVITY MATRIX
 
-<div align="left">
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkioCkist&bg_color=0A0A23&color=DA70D6&line=8A2BE2&point=FF00FF&area=true&hide_border=true&custom_title=NEON%20CONTRIBUTION%20MATRIX" alt="Neon Activity Graph"/>
 </div>
 
@@ -71,15 +71,15 @@
 
 ## 🏆 DIGITAL ACHIEVEMENTS 🏆
 
-<div align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=AkioCkist&theme=neon&no-frame=true&no-bg=true&margin-w=4&column=4&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest" alt="Neon Trophies"/>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AkioCkist&theme=neon&no-frame=true&no-bg=false&margin-w=4&column=6&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest" alt="Neon Trophies"/>
 </div>
 
 ---
 
-## ⚡ MY CONNECTIONS ⚡
+## ⚡ NEON CONNECTIONS ⚡
 
-<div align="left">
+<div align="center">
   <a href="https://linkedin.com/in/nitishsinghslg" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0077B5&labelColor=000000&color=8A2BE2" alt="LinkedIn"/>
   </a>
@@ -108,9 +108,9 @@
 
 ---
 
-## 🔮 FACTS ABOUT ME 🔮
+## 🔮 NEON FACTS ABOUT THE WIZARD 🔮
 
-<div align="left">
+<div align="center">
   <img align="right" height="200" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Neon Coding GIF"/>
 </div>
 
@@ -145,15 +145,15 @@ const AkioCkist = {
 
 ---
 
-<div align="left">
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=neon&color=8A2BE2&height=100&section=footer&text=THANKS%20FOR%20VISITING%20MY%20NEON%20REALM&fontSize=24&fontColor=FFFFFF&animation=twinkling" />
 </div>
 
-<div align="left">
+<div align="center">
   <img src="https://github.com/AkioCkist/AkioCkist/blob/output/github-snake-dark.svg" alt="Neon Snake Animation" width="100%"/>
 </div>
 
-<div align="left">
+<div align="center">
   <h2>⚡ STAY CONNECTED TO THE NEON GRID ⚡</h2>
   <p><i>🌟 Crafted with neon magic by <a href="https://github.com/AkioCkist">AkioCkist</a> 💜</i></p>
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=14&duration=3000&pause=1000&color=DA70D6&center=true&vCenter=true&width=400&lines=Keep+coding+in+neon+style!+%E2%9A%A1;May+your+commits+glow+bright!+%F0%9F%8C%9F" alt="Footer Message" />
