@@ -1,4 +1,7 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey there! I'm AkioCkist
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> Hey there! I'm Quan (_a.k.a_ **Akio Ckist**)
+
+> 🧠 Full Stack Developer | 🖌️ Digital Designer | 🎮 Game Dev Enthusiast
+
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2500&pause=800&color=8A2BE2&center=true&vCenter=true&width=600&lines=%E2%9A%A1+NEON+CODER+%E2%9A%A1;%F0%9F%8C%8C+FULL+STACK+DEVELOPER+%F0%9F%8C%8C;%F0%9F%94%AE+UI%2FUX+WIZARD+%F0%9F%94%AE;%F0%9F%9A%80+ALWAYS+INNOVATING+%F0%9F%9A%80" alt="Neon Typing SVG" />
