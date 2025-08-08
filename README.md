@@ -74,9 +74,7 @@
 
 ## 🏆 DIGITAL ACHIEVEMENTS 
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AkioCkist&theme=neon&no-frame=true&no-bg=false&margin-w=4&column=6&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest" alt="Neon Trophies"/>
-</div>
+[![trophy](https://github-profile-trophy.vercel.app/?username=akiockist&theme=aura)](https://github-profile-trophy.vercel.app/?username=akiockist&theme=aura)
 
 ---
 
