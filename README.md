@@ -154,8 +154,8 @@ const AkioCkist = {
 
 <div align="center">
   <blockquote>
-    <p><i>“Life is not always black and white, it's a million shades of grey.”</i></p>
-    <footer>— Shay Patrick Cormac, <b>Templar</b></footer>
+    <p><i>“As you gaze skyward seeking the heavens for endlessness, my spear finds your neck.”</i></p>
+    <footer><b>– Aspect of War</b></footer>
   </blockquote>
   <p><i>🌟 Crafted with neon magic by <a href="https://github.com/AkioCkist">AkioCkist</a> 💜</i></p>
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=14&duration=3000&pause=1000&color=DA70D6&center=true&vCenter=true&width=400&lines=Keep+coding+in+neon+style!+%E2%9A%A1;May+your+commits+glow+bright!+%F0%9F%8C%9F" alt="Footer Message" />
