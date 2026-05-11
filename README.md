@@ -76,7 +76,7 @@
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/akiockist)
 [![Twitter](https://img.shields.io/badge/X-000000?logo=x&logoColor=white&style=for-the-badge)](https://twitter.com/akiockist)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF4500?logo=google-chrome&logoColor=white&style=for-the-badge)](https://akiockist.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF4500?logo=google-chrome&logoColor=white&style=for-the-badge)](https://akiockist.xyz)
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white&style=for-the-badge)](https://behance.net/akiockist)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/akiockist)
 
