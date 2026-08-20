@@ -35,7 +35,25 @@
 
 <br/>
 
+<details open> 
+  <summary><h2>📘 My Top Open Source Projects</h2></summary>
 
+  <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
+  <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
+  <p align="left">
+    <a href="https://github.com/AkioCkist/y2mate-artisan"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AkioCkist&repo=y2mate-artisan&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="y2mate-artisan"></a>
+    <a href="https://github.com/AkioCkist/teacher-ai"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AkioCkist&repo=teacher-ai&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="teacher-ai"></a>
+    <a href="https://github.com/AkioCkist/Facebook-Story-Saver"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AkioCkist&repo=Facebook-Story-Saver&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Facebook-Story-Saver"></a>
+    <a href="https://github.com/AkioCkist/vnuk-toolkit"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AkioCkist&repo=vnuk-toolkit&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="vnuk-toolkit"></a>
+    <a href="https://github.com/AkioCkist/glass-finance"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AkioCkist&repo=glass-finance&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="glass-finance"></a>
+    <a href="https://github.com/AkioCkist/WorldQuant-University-Data-Science"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AkioCkist&repo=WorldQuant-University-Data-Science&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="WorldQuant-University-Data-Science"></a>
+    <a href="https://github.com/AkioCkist/malware_scanner"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AkioCkist&repo=malware_scanner&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="malware_scanner"></a>
+    <a href="https://github.com/AkioCkist/face_reg"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AkioCkist&repo=face_reg&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="face_reg"></a>
+    <a href="https://github.com/AkioCkist/daily_vocabulary"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AkioCkist&repo=daily_vocabulary&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="daily_vocabulary"></a>
+  </p>
+
+  <a href="https://github.com/AkioCkist?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+</details>
 
 <details open> 
   <summary><h2>📕 Top Projects I've Contributed To</h2></summary>
