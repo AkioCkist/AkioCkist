@@ -294,7 +294,7 @@
 
 <div align="center">
   
-> *"𝑨𝒏𝒚𝒐𝒏𝒆 𝒄𝒂𝒏 𝒑𝒓𝒆𝒅𝒊𝒄𝒕 𝒕𝒉𝒆 𝒇𝒖𝒕𝒖𝒓𝒆... 𝑨 𝒗𝒊𝒔𝒊𝒐𝒏𝒂𝒓𝒚 𝒔𝒉𝒂𝒑𝒆𝒔 𝒊𝒕."*  
-> — Isaac Asimov
+> *"𝑷𝒓𝒆𝒄𝒊𝒔𝒊𝒐𝒏 𝒊𝒔 𝒕𝒉𝒆 𝒅𝒊𝒇𝒇𝒆𝒓𝒆𝒏𝒄𝒆 𝒃𝒆𝒕𝒘𝒆𝒆𝒏 𝒂 𝒃𝒖𝒕𝒄𝒉𝒆𝒓 𝒂𝒏𝒅 𝒂 𝒔𝒖𝒓𝒈𝒆𝒐𝒏"*  
+> — 𝐂𝐚𝐦𝐢𝐥𝐥𝐞
 
 [![Snake Animation](https://github.com/AkioCkist/AkioCkist/blob/output/github-snake-dark.svg)](https://github.com/AkioCkist)
