@@ -41,7 +41,7 @@
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
   <p align="left">
-    <a href="https://github.com/AkioCkist/y2mate-artisan"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AkioCkist&repo=y2mate-artisan&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="y2mate-artisan"></a>
+    <a href="https://github.com/AkioCkist/y2akio"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AkioCkist&repo=y2akio&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="y2akio"></a>
     <a href="https://github.com/AkioCkist/teacher-ai"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AkioCkist&repo=teacher-ai&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="teacher-ai"></a>
     <a href="https://github.com/AkioCkist/Facebook-Story-Saver"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AkioCkist&repo=Facebook-Story-Saver&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Facebook-Story-Saver"></a>
     <a href="https://github.com/AkioCkist/vnuk-toolkit"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AkioCkist&repo=vnuk-toolkit&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="vnuk-toolkit"></a>
