@@ -60,7 +60,7 @@
 
   <!-- Small repo cards https://github.com/DenverCoder1/github-readme-stats -->
   <p align="left">
-    <a href="https://github.com/khang-ngo4444/BrokenFang"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=khang-ngo4444&repo=BrokenFang&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="BrokenFang"></a>
+    <a href="https://github.com/khang-ngo4444/Partyyy"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=khang-ngo4444&repo=Partyyy&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Partyyy"></a>
     <a href="https://github.com/3HoTuan3/TestingAutomation"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=3HoTuan3&repo=TestingAutomation&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="TestingAutomation"></a>
   </p>
 </details>
