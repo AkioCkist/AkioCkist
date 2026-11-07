@@ -40,20 +40,42 @@
 
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
-  <p align="left">
-    <a href="https://github.com/AkioCkist/y2akio"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AkioCkist&repo=y2akio&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&cache_seconds=1800" alt="y2akio"></a>
-    <a href="https://github.com/AkioCkist/DPIAkio"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AkioCkist&repo=DPIAkio&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&cache_seconds=1800" alt="DPIAkio"></a>
-    <a href="https://github.com/AkioCkist/teacher-ai"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AkioCkist&repo=teacher-ai&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="teacher-ai"></a>
-    <a href="https://github.com/AkioCkist/Facebook-Story-Saver"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AkioCkist&repo=Facebook-Story-Saver&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Facebook-Story-Saver"></a>
-    <a href="https://github.com/AkioCkist/debt_ledger"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AkioCkist&repo=debt_ledger&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&cache_seconds=1800" alt="debt_ledger"></a>
-    <a href="https://github.com/AkioCkist/Oremus"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AkioCkist&repo=Oremus&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&cache_seconds=1800" alt="Oremus"></a>
-    <a href="https://github.com/AkioCkist/GalleryAkio"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AkioCkist&repo=GalleryAkio&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&cache_seconds=1800" alt="GalleryAkio"></a>
-    <a href="https://github.com/AkioCkist/malware_scanner"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AkioCkist&repo=malware_scanner&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="malware_scanner"></a>
-    <a href="https://github.com/AkioCkist/face_reg"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AkioCkist&repo=face_reg&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="face_reg"></a>
-    <a href="https://github.com/AkioCkist/daily_vocabulary"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AkioCkist&repo=daily_vocabulary&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="daily_vocabulary"></a>
-  </p>
+<p align="left">
+  <a href="https://github.com/AkioCkist/y2akio">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=AkioCkist&repo=y2akio&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&card_width=400" alt="y2akio">
+  </a>
+  <a href="https://github.com/AkioCkist/DPIAkio">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=AkioCkist&repo=DPIAkio&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&card_width=400" alt="DPIAkio">
+  </a>
+  <a href="https://github.com/AkioCkist/teacher-ai">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=AkioCkist&repo=teacher-ai&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&card_width=400" alt="teacher-ai">
+  </a>
+  <a href="https://github.com/AkioCkist/Facebook-Story-Saver">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=AkioCkist&repo=Facebook-Story-Saver&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&card_width=400" alt="Facebook-Story-Saver">
+  </a>
+  <a href="https://github.com/AkioCkist/debt_ledger">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=AkioCkist&repo=debt_ledger&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&card_width=400" alt="debt_ledger">
+  </a>
+  <a href="https://github.com/AkioCkist/Oremus">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=AkioCkist&repo=Oremus&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&card_width=400" alt="Oremus">
+  </a>
+  <a href="https://github.com/AkioCkist/GalleryAkio">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=AkioCkist&repo=GalleryAkio&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&card_width=400" alt="GalleryAkio">
+  </a>
+  <a href="https://github.com/AkioCkist/malware_scanner">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=AkioCkist&repo=malware_scanner&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&card_width=400" alt="malware_scanner">
+  </a>
+  <a href="https://github.com/AkioCkist/face_reg">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=AkioCkist&repo=face_reg&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&card_width=400" alt="face_reg">
+  </a>
+  <a href="https://github.com/AkioCkist/daily_vocabulary">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=AkioCkist&repo=daily_vocabulary&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&card_width=400" alt="daily_vocabulary">
+  </a>
+</p>
 
-  <a href="https://github.com/AkioCkist?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+<a href="https://github.com/AkioCkist?tab=repositories">
+  <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
+</a>
 </details>
 
 <details open> 
@@ -61,10 +83,15 @@
 
   <!-- Small repo cards https://github.com/DenverCoder1/github-readme-stats -->
   <p align="left">
-    <a href="https://github.com/khang-ngo4444/Partyyy"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=khang-ngo4444&repo=Partyyy&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Partyyy"></a>
-    <a href="https://github.com/3HoTuan3/TestingAutomation"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=3HoTuan3&repo=TestingAutomation&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="TestingAutomation"></a>
+    <a href="https://github.com/khang-ngo4444/Partyyy">
+      <img src="https://github-stats-extended.vercel.app/api/pin/?username=khang-ngo4444&repo=Partyyy&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&card_width=400" alt="Partyyy">
+    </a>
+    <a href="https://github.com/3HoTuan3/TestingAutomation">
+      <img src="https://github-stats-extended.vercel.app/api/pin/?username=3HoTuan3&repo=TestingAutomation&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&card_width=400" alt="TestingAutomation">
+    </a>
   </p>
 </details>
+
 <details> 
   <summary><h2>📺 Latest YouTube Videos</h2></summary>
 
